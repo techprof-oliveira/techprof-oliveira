@@ -11,9 +11,6 @@ I contribute to building **scalable products**, **SaaS platforms**, and **high-p
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/techprof-oliveira">
-    <img src="https://img.shields.io/badge/GitHub-techprof-oliveira-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://instagram.com/galaxiatx">
     <img src="https://img.shields.io/badge/Instagram-@galaxiatx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
