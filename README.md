@@ -18,3 +18,14 @@ I contribute to building **scalable products**, **SaaS platforms**, and **high-p
 </p>
 
 ---
+
+🧠 What I do
+
+🎓 Teaching and career mentoring
+🏗️ SaaS and value-generating systems
+⚡ Performance optimization
+🧩 Clean architecture and systems design
+🔐 Secure APIs and authentication
+💳 Payments, subscriptions, and business logic
+🤖 Automation and integrations
+📊 Dashboards and analytics
