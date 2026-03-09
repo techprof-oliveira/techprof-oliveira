@@ -163,4 +163,5 @@ I contribute to building **scalable products**, **SaaS platforms**, and **high-p
 ---
 
 ⭐ If you enjoy some of my work, consider adding a repository to your favorites!
+
 🤝 Always open to collaborations, partnerships, and cool ideas.
