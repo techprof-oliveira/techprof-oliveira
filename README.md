@@ -14,8 +14,12 @@ I contribute to building **scalable products**, **SaaS platforms**, and **high-p
   <a href="https://instagram.com/galaxiatx">
     <img src="https://img.shields.io/badge/Instagram-@galaxiatx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
- 
 </p>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/flaviojoliveira) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/flaviojoliveira/)
+
 
 ---
 
